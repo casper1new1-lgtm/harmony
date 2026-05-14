@@ -83,6 +83,10 @@
 	{
       "name": "systextures/LineageEffectsTextures2.utx",
       "url": "https://github.com/casper1new1-lgtm/harmony/releases/download/new/LineageEffectsTextures2.utx"
+    },
+	{
+      "name": "systextures/Somik.utx",
+      "url": "https://github.com/casper1new1-lgtm/harmony/raw/refs/heads/main/Somik.utx"
     }
 	  
   ]
