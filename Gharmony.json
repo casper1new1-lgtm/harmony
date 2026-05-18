@@ -2,7 +2,7 @@
   "allowed_machine_guids": [],
 
   "required_hashes": {
-    "system\\NWindow": "b17b2f66ea12053285b6d60016ee7240df4a70a9891460fcd9776a2d68485c93",
+    "system\\NWindow.dll": "b17b2f66ea12053285b6d60016ee7240df4a70a9891460fcd9776a2d68485c93",
     "system\\engine.dll": "2a827f9b7a4dcf20c0439edce80411f39afbbb44ae4e63c15d5e58421e02ecb4",
     "system\\Core.dll": "01a82b1e26d6ecac14f3032d8668d1180900e7678fcdf4c95b1bb6f5c989c230"
   },
